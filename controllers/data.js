@@ -1,4 +1,4 @@
-let jsonData = require("../data.json")
+let jsonData = require("../cleaned_data.json")
 
 const getAllRegions = async (req, res) => {
     try {
